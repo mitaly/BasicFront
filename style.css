@@ -40,3 +40,32 @@ a:active{
 	background-color: transparent;
 	text-decoration: underline;
 }
+
+#t01{
+	background-color: #f1f1c1
+}
+
+#t01, #t01 th, #t01 td{
+	border:1px solid black;
+	border-collapse:collapse;
+}
+
+#t01 th, #t01 td{
+	border-spacing: 22px;
+	padding:10px;
+	text-align:center;
+}
+
+.about{
+	padding:20px;
+	background-color:black;
+	color:white;
+	font-size:30px;
+	margin:20px;
+}
+
+iframe{
+	width:100px;
+	height:200px;
+	border:none;
+}
